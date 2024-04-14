@@ -1,0 +1,11 @@
+subscriptions:
+  orderbook:
+    -
+      depth: 50
+      symbol: BTCUSDT
+    -
+      depth: 50
+      symbol: ETHUSDT
+  trades:
+    - BTCUSDT
+    - ETHUSDT
